@@ -13,3 +13,7 @@ function deleteFromDriverByKey(driver, key) {
   const something = delete driver.key
   return something
 }
+
+function destructivelyDeleteFromDriverByKey(driver, key) {
+  
+}
